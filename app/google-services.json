@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "514935152915",
+    "project_id": "ultra-magazine-firebase",
+    "storage_bucket": "ultra-magazine-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514935152915:android:9f6b753d0251d205047ae6",
+        "android_client_info": {
+          "package_name": "com.ultraman.magazineapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIztPZYXRMFJJU7LgKs_TsiBajNd6eenE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
