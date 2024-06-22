@@ -2,7 +2,9 @@ package com.ultraman.magazineapp;
 
 import com.google.android.material.textfield.TextInputEditText;
 
-public class ReadWriteMedRec {
+import java.io.Serializable;
+
+public class ReadWriteMedRec implements Serializable {
     public String nomor, nama, tanggal, gender, pekerjaan, pendidikan, alamat, diagnosa, komplikasi, operasi, dokter;
 
     public ReadWriteMedRec() {
@@ -22,4 +24,7 @@ public class ReadWriteMedRec {
         this.operasi = operasi;
         this.dokter = dokter;
     }
+
+
+
 }

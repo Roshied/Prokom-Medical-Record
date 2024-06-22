@@ -11,6 +11,7 @@
         android:gravity="center"
         android:orientation="vertical">
         <ListView
+            android:id="@+id/document_listview"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
         <com.google.android.material.button.MaterialButton
